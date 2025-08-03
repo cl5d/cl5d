@@ -1,6 +1,6 @@
 # Hi! I'm cl5d.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/gif/banner.gif">
+  <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/gif/gif_cl5dIntro1.gif">
 </p>
 
 ##
@@ -15,7 +15,3 @@ using <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/logo/img
 
 That's all...  
 I don't know what else to put, lol.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/gif/gif_idk.gif">
-</p>
