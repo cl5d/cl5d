@@ -17,7 +17,7 @@ I'm cl5d (or cl5fied) - I'm an independent developer who makes whatever pops int
 
 ### Tools & Languages I Plan to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=discord,haxeflixel,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxeflixel,discord,python)](https://skillicons.dev)
 
 - **Discord** (bot development)
 - **HaxeFlixel** — For the development of video games
