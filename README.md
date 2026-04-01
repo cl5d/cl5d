@@ -1,17 +1,32 @@
-# Hi! I'm cl5d.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/gif/gif_cl5dIntro1.gif">
-</p>
+# Hellow :D
+### About Me
 
-##
+I'm cl5d (or cl5fied) - I'm an independent developer who makes whatever pops into my head.
 
-I create small private games (for now),  
-using the <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/logo/img_gamemakerIcon.png" alt="gmLogo" width="20"> [GameMaker](https://gamemaker.io) engine.
+---
 
-And I also do some drawings (once every century),  
-using <img src="https://raw.githubusercontent.com/cl5d/cl5d/main/assets/logo/img_asepriteIcon.png" alt="aseLogo" width="20"> [Aseprite](https://www.aseprite.org).
+### Tools & Languages I Use
 
-##
+[![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,vscode,html,css,js)](https://skillicons.dev)
 
-That's all...  
-I don't know what else to put, lol.
+- **GameMaker** — My main game engine
+- **VS Code** — Favorite code editor
+- **HTML, CSS & JavaScript** — Web development
+
+---
+
+### Tools & Languages I Plan to Learn
+
+[![My Skills](https://skillicons.dev/icons?i=discord,haxeflixel,python)](https://skillicons.dev)
+
+- **Discord** (bot development)
+- **HaxeFlixel** — For the development of video games
+- **Python** — To experiment and do silly things
+
+---
+
+Thanks for reading :D!!
+
+If you'd like to see some of my projects in more detail, you can check out my repositories.
+
+Well, that's all for now. Take care and stay hydrated! Bye!
