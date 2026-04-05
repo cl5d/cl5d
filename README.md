@@ -9,7 +9,7 @@ I'm cl5d (or cl5fied) - I'm an independent developer who makes whatever pops int
 
 [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,vscode,html,css,js)](https://skillicons.dev)
 
-- **GameMaker** — My main game engine
+- **GameMaker** — My main game engine, which I use to make silly games
 - **VS Code** — Favorite code editor
 - **HTML, CSS & JavaScript** — Web development
 
@@ -17,10 +17,11 @@ I'm cl5d (or cl5fied) - I'm an independent developer who makes whatever pops int
 
 ### Tools & Languages I Plan to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=haxeflixel,discord,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Godot,haxeflixel,discord,python)](https://skillicons.dev)
 
+- **Godot** - for the development of silly for the development of silly games
+- **HaxeFlixel** — for game development... yes, silly games
 - **Discord** (bot development)
-- **HaxeFlixel** — For the development of video games
 - **Python** — To experiment and do silly things
 
 ---
