@@ -1,7 +1,7 @@
 # Hellow :D
 ### About Me
 
-I'm cl5d (or cl5fied) - I'm an independent developer who makes whatever pops into my head.
+I'm sincat (or cl5d) - I'm an independent developer who makes whatever pops into my head.
 
 ---
 
