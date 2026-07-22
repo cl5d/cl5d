@@ -1,7 +1,7 @@
 # Hellow :D
 ### About Me
 
-I'm sincat (or cl5d) - I'm an independent developer who makes whatever pops into my head.
+I'm syncat - I'm an independent developer who makes whatever pops into my head.
 
 ---
 
